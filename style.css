@@ -165,16 +165,26 @@ body {
 image {
   width: 100%;
 }
-.menu {
+.activites {
+  margin-top: 0;
   margin-left: 5%;
   margin-right: 5%;
   margin-bottom: 10%;
 }
+.contact {
+  padding-right: 10px;
+  padding-left: 10px;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+.contact-head {
+  font-size: 50px;
+}
 #email {
   padding-bottom: 10%;
-  margin-left: 40%;
-  width: 10%;
-  background-color: rgb(225, 216, 203);
+  margin-left: 35%;
+  width: 15%;
+  background-color: rgb(240, 230, 222);
   color: black;
   padding: 10px 50px;
   border-radius: 3px;
@@ -185,13 +195,14 @@ image {
 .button {
   text-decoration: none;
   width: 10%;
-  background-color: coral;
-  color: black;
+  background-color: rgb(231, 94, 45);
+  color:white;
   padding: 10px 10px;
   border-radius: 3px;
   border: black;
   font-size: 16px;
   text-align: center;
+  margin-left: -5px;
 }
 footer {
   background-color: black;
@@ -214,4 +225,14 @@ footer p {
 }
 .contact h2 {
   text-align: center;
+}
+.see-more {
+  text-decoration: none;
+  width: 10%;
+  color: rgb(39, 8, 139);
+  padding: 10px 10px;
+  border-radius: 3px;
+  font-size: 20px;
+  text-align: center;
+  margin-left: 15px;
 }
