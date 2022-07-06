@@ -96,13 +96,12 @@ body {
   margin-left: 2%;
   margin-right: 2%;
 }
-.horizontal{
+.horizontal {
   width: 50%;
   margin-bottom: 5%;
 }
-.funds h3{
-  color:rgb(167, 165, 165) ;
-  
+.funds h3 {
+  color: rgb(167, 165, 165);
 }
 .donate2 {
   text-decoration: none;
@@ -112,25 +111,25 @@ body {
   border-radius: 10px;
   margin-bottom: 10%;
 }
-.flex{
+.flex {
   display: flex;
 }
-.donate-plan{
+.donate-plan {
   padding-bottom: 10%;
 }
-.plan1{
+.plan1 {
   padding-top: 10%;
   text-align: center;
   padding-left: 30%;
   padding-right: 30%;
 }
-.plan2{
+.plan2 {
   padding-bottom: 5%;
   text-align: center;
   padding-left: 30%;
   padding-right: 30%;
 }
-.para1{
+.para1 {
   text-align: start;
   margin-left: 5%;
   margin-right: 5%;
@@ -140,17 +139,17 @@ body {
   padding-right: 3%;
   background-color: rgba(250, 230, 233, 0.819);
 }
-.para2{
+.para2 {
   text-align: start;
   padding-top: 5%;
   padding-bottom: 5%;
   padding-left: 5%;
   padding-right: 5%;
-  background-color:rgba(199, 213, 154, 0.819) ;
+  background-color: rgba(199, 213, 154, 0.819);
   margin-left: 5%;
   margin-right: 5%;
 }
-.para3{
+.para3 {
   text-align: start;
   padding-top: 5%;
   padding-bottom: 5%;
@@ -160,42 +159,39 @@ body {
   margin-left: 5%;
   margin-right: 5%;
 }
-.horizontal2{
+.horizontal2 {
   width: 70%;
-  
 }
-image{
+image {
   width: 100%;
 }
-.menu{
+.menu {
   margin-left: 5%;
   margin-right: 5%;
   margin-bottom: 10%;
 }
 #email {
   padding-bottom: 10%;
-  margin-left: 40%; 
-  width:10%;
-background-color: rgb(225, 216, 203);
-  color:black;
-  padding:10px 50px;
+  margin-left: 40%;
+  width: 10%;
+  background-color: rgb(225, 216, 203);
+  color: black;
+  padding: 10px 50px;
   border-radius: 3px;
   border: black;
   font-size: 16px;
-  text-align:start;
-   
+  text-align: start;
 }
 .button {
   text-decoration: none;
-  width:10%;
-  background-color:coral;
-  color:black;
-  padding:10px 10px;
+  width: 10%;
+  background-color: coral;
+  color: black;
+  padding: 10px 10px;
   border-radius: 3px;
   border: black;
   font-size: 16px;
-  text-align:center;
-  
+  text-align: center;
 }
 footer {
   background-color: black;
@@ -209,13 +205,13 @@ footer span {
 footer h3 {
   margin-top: 5%;
   font-size: 25px;
-  font-family: 'The Nautigal', cursive;;
+  font-family: "The Nautigal", cursive;
 }
 footer p {
   font-size: 14px;
   padding-bottom: 20px;
   margin-bottom: 0;
 }
-.contact h2{
+.contact h2 {
   text-align: center;
 }
