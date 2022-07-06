@@ -161,12 +161,14 @@ body {
 }
 .horizontal2 {
   width: 70%;
+  /* padding-bottom: 0; */
 }
 image {
   width: 100%;
 }
 .activites {
-  margin-top: 0;
+  font-size: 30px;
+  margin-top: 5%;
   margin-left: 5%;
   margin-right: 5%;
   margin-bottom: 10%;
