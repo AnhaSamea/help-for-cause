@@ -1,6 +1,8 @@
 body {
   font-family: "Montserrat", sans-serif;
-  margin-top: 0;
+  /* margin-left: 0;
+  margin-top: 0; */
+  margin: 0;
   width: 100%;
   height: 100%;
 }
@@ -16,7 +18,7 @@ body {
   /* padding-left: 5%;
   padding-right: 5%; */
   padding-bottom: 130px;
-  padding-top: 80px;
+  padding-top: 60px;
 }
 .background {
   background-color: rgb(0, 0, 0, 0.3);
@@ -53,6 +55,7 @@ body {
 .heading2 {
   margin-top: 10%;
   font-size: 50px;
+  padding-top: 100px;
   padding-bottom: 0;
 }
 .padding {
@@ -62,6 +65,7 @@ body {
 .second-p {
   font-size: 16px;
   color: rgb(127, 125, 125);
+  padding-bottom: 50px;
 }
 .container {
   display: flex;
@@ -76,14 +80,14 @@ body {
   margin-left: 10%;
   margin-right: 10%;
   margin-top: 5%;
-  margin-bottom: 5%%;
+  margin-bottom: 5%;
 }
 .select {
-  background-color: rgb(246, 215, 215);
+  background-color: rgb(148, 219, 175);
   border-style: solid;
-  border-color: rgb(182, 79, 79);
+  border-color: rgb(101, 200, 139);
   border-radius: 10px;
-  color: rgb(226, 55, 55);
+  color: rgb(6, 178, 72);
   margin-left: 2%;
   margin-right: 2%;
 }
@@ -91,4 +95,127 @@ body {
   color: black;
   margin-left: 2%;
   margin-right: 2%;
+}
+.horizontal{
+  width: 50%;
+  margin-bottom: 5%;
+}
+.funds h3{
+  color:rgb(167, 165, 165) ;
+  
+}
+.donate2 {
+  text-decoration: none;
+  background-color: rgb(5, 126, 35);
+  color: white;
+  padding: 15px 20px;
+  border-radius: 10px;
+  margin-bottom: 10%;
+}
+.flex{
+  display: flex;
+}
+.donate-plan{
+  padding-bottom: 10%;
+}
+.plan1{
+  padding-top: 10%;
+  text-align: center;
+  padding-left: 30%;
+  padding-right: 30%;
+}
+.plan2{
+  padding-bottom: 5%;
+  text-align: center;
+  padding-left: 30%;
+  padding-right: 30%;
+}
+.para1{
+  text-align: start;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  padding-left: 3%;
+  padding-right: 3%;
+  background-color: rgba(250, 230, 233, 0.819);
+}
+.para2{
+  text-align: start;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  padding-left: 5%;
+  padding-right: 5%;
+  background-color:rgba(199, 213, 154, 0.819) ;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+.para3{
+  text-align: start;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  padding-left: 3%;
+  padding-right: 3%;
+  background-color: rgba(154, 176, 213, 0.441);
+  margin-left: 5%;
+  margin-right: 5%;
+}
+.horizontal2{
+  width: 70%;
+  
+}
+image{
+  width: 100%;
+}
+.menu{
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-bottom: 10%;
+}
+#email {
+  padding-bottom: 10%;
+  margin-left: 40%; 
+  width:10%;
+background-color: rgb(225, 216, 203);
+  color:black;
+  padding:10px 50px;
+  border-radius: 3px;
+  border: black;
+  font-size: 16px;
+  text-align:start;
+   
+}
+.button {
+  text-decoration: none;
+  width:10%;
+  background-color:coral;
+  color:black;
+  padding:10px 10px;
+  border-radius: 3px;
+  border: black;
+  font-size: 16px;
+  text-align:center;
+  
+}
+footer {
+  background-color: black;
+  color: white;
+  text-align: center;
+  margin: 0;
+}
+footer span {
+  color: coral;
+}
+footer h3 {
+  margin-top: 5%;
+  font-size: 25px;
+  font-family: 'The Nautigal', cursive;;
+}
+footer p {
+  font-size: 14px;
+  padding-bottom: 20px;
+  margin-bottom: 0;
+}
+.contact h2{
+  text-align: center;
 }
